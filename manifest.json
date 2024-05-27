@@ -3,7 +3,7 @@
     "short_name": "Wenzhe Xu",
     "description": "A Progressive Web App for Lab 8 Starter",
     "start_url": "./index.html",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
     "icons": [
@@ -26,7 +26,13 @@
         "src": "/assets/images/icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
+      },
+      {
+        "src": "/assets/images/icons/arrow-down.png",
+        "sizes": "any",
+        "type": "image/png"
       }
-    ]
+    ],
+    "prefer_related_applications": false
   }
   
