@@ -2,7 +2,7 @@
 Name: Wenzhe Xu
 -----
 Website:  https://markcmd.github.io/Lab8-Starter/
-
+-----
 Short paragraph about graceful degradation and service workers:
 
 Graceful Degradation：
